@@ -3,7 +3,7 @@
 
 # Stage1
 ## HTML
-## css
+## CSS
 ## Javascript
 ## jQuery
 
