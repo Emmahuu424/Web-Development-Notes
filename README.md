@@ -2,10 +2,10 @@
 网站设计与开发
 
 # Stage1
-## * HTML
-## * css
-## * Javascript
-## * jQuery
+## HTML
+## css
+## Javascript
+## jQuery
 
 # Stage2
 ## BootStrap
